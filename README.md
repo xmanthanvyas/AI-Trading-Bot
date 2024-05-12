@@ -2,6 +2,9 @@
 
 Build a trader bot which looks at sentiment of live news events and trades appropriately.
 
+![newplot](https://github.com/xmanthanvyas/AI-Trading-Bot/assets/123976913/23467dde-bdd3-492c-bdc4-dab6d5bb2468)
+
+
 # Startup 🚀
 - Create a virtual environment `conda create -n trader python=3.10`
 - Activate it `conda activate trader`
